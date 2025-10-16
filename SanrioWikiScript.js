@@ -84,7 +84,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <p>Pochacco is a loyal friend to everyone he meets. He has many animal friends, but his best friend is a mouse named Choppy. He enjoys walking and running, often covering hundreds of kilometers, and is always looking for new adventures and games to play. His love for banana ice cream is one of his most defining traits.</p>
                 <p>He is a bright and energetic dog who truly embodies the spirit of friendly competition and active fun.</p>`,
             detailed: `<ul><li><strong>Name:</strong> Pochacco (ポチャッコ)</li><li><strong>Birthday:</strong> February 29th (Leap Year!), 1989 (Debut Year)</li><li><strong>Species:</strong> Dog (Male)</li><li><strong>Favorite Food:</strong> Banana Ice Cream.</li></ul>`,
-            icon: 'IMG/pochacco-icon.jpg', image: 'IMG/pochacco-profile.jpg'
+            icon: 'IMG/Pochacco-icon.jpg', image: 'IMG/Pochacco-profile.jpg'
         },
         keroppi: {
             fullName: "Keroppi", infoTitle: "FULL PROFILE",
@@ -94,7 +94,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <p>His distinctive hop is a defining feature, and he is quite skilled at jumping and swimming, sometimes covering impressive distances. He is known for his upbeat attitude and his constant willingness to help others, especially if it involves an adventure. He lives in a house known as the Kero Kero House, located on the edge of the pond.</p>
                 <p>Keroppi's positivity and team spirit make him a beloved figure in the Sanrio universe, symbolizing friendship and fun.</p>`,
             detailed: `<ul><li><strong>Name:</strong> Keroppi (けろけろけろっぴ)</li><li><strong>Birthday:</strong> July 10th, 1988 (Debut Year)</li><li><strong>Species:</strong> Frog (Male)</li><li><strong>Home:</strong> Donut Pond.</li></ul>`,
-            icon: 'IMG/keroppi-icon.jpg', image: 'IMG/keroppi-profile.jpg'
+            icon: 'IMG/Keroppi-icon.jpg', image: 'IMG/Keroppi-profile.jpg'
         },
         littletwinstars: {
             fullName: "LittleTwinStars", infoTitle: "FULL PROFILE",
@@ -136,8 +136,8 @@ document.addEventListener('DOMContentLoaded', () => {
                 <p>Sam is very fashionable and has a great sense of taste, not just in clothing but also in food. He loves to eat and is particularly fond of shrimp and other fine seafood. Despite his formal attire, he has a playful spirit and enjoys various competitive sports, including tennis, sailing, and golf.</p>
                 <p>He is highly educated, speaks fluent "Penguinese" in addition to English, and is considered the intellectual of the group. His best friends are his two younger, equally stylish brothers, the playful twins Pam and Tam. Tuxedosam represents a charming blend of elegance, intellect, and fun, making him a timeless and beloved Sanrio character who reminds everyone that it's okay to be both smart and fashionable.</p>`,
             detailed: `<ul><li><strong>Name:</strong> Tuxedosam (タキシードサム)</li><li><strong>Birthday:</strong> May 12th, 1979 (Debut Year)</li><li><strong>Species:</strong> Penguin (Male)</li><li><strong>Home:</strong> Tuxedo Island, Antarctica</li><li><strong>Hobby:</strong> Collecting and coordinating his extensive collection of 365 bow ties.</li><li><strong>Special Skill:</strong> Speaking fluent English and "Penguinese."</li></ul>`,
-            icon: 'IMG/tuxedosam-icon.jpg',
-            image: 'IMG/tuxedosam-profile.jpg'
+            icon: 'IMG/Tuxedosam-icon.jpg',
+            image: 'IMG/Tuxedosam-profile.jpg'
         },
         bonbonribbon: {
             fullName: "Bonbonribbon", infoTitle: "FULL PROFILE",
@@ -156,8 +156,8 @@ document.addEventListener('DOMContentLoaded', () => {
                 <p>Pekkle is known for his sweet nature, but he can be a bit of a slow walker and sometimes gets into funny, clumsy situations due to his absent-mindedness. His enduring dream is to one day fly, and he often tries various inventive (and usually unsuccessful) methods to get airborne, such as using makeshift wings or jumping off tall objects.</p>
                 <p>Despite his repeated failures, he never loses his optimistic outlook or his determination to try again. He has a devoted girlfriend named Ruby and a best friend named Pich, who is a small fish. Pekkle is a loyal and caring friend who embodies the joy of simple hobbies and the importance of perseverance, even when the goal seems impossible.</p>`,
             detailed: `<ul><li><strong>Name:</strong> Pekkle (アヒルのペックル)</li><li><strong>Birthday:</strong> July 27th, 1989 (Debut Year)</li><li><strong>Species:</strong> Duck (Male)</li><li><strong>Home:</strong> Australia</li><li><strong>Hobby:</strong> Singing karaoke and tap dancing.</li><li><strong>Goal:</strong> Learning to fly.</li></ul>`,
-            icon: 'IMG/pekkle-icon.jpg',
-            image: 'IMG/pekkle-profile.jpg'
+            icon: 'IMG/Pekkle-icon.jpg',
+            image: 'IMG/Pekkle-profile.jpg'
         },
         monkichi: {
             fullName: "Monkichi", infoTitle: "FULL PROFILE",
@@ -166,8 +166,8 @@ document.addEventListener('DOMContentLoaded', () => {
                 <p>Monkichi is famous for his cheerful disposition, his playful nature, and his deep affection for telling jokes and puns, though they don't always land perfectly with his audience. He is a bit of a show-off but in a charming and harmless way, driven by his dream to one day become a famous poet or comedian on the national stage, and he is constantly practicing his craft. His upbeat personality is contagious, and he can often be found climbing trees with unmatched agility, playing fast-paced games, and, of course, sharing his beloved bananas with anyone who asks.</p>
                 <p>Monkichi represents boundless energy, humor, and the simple joy of having a good laugh with friends while relentlessly pursuing an ambitious dream.</p>`,
             detailed: `<ul><li><strong>Name:</strong> Osaru no Monkichi (おさるのもんきち)</li><li><strong>Birthday:</strong> January 13th, 1992 (Debut Year)</li><li><strong>Species:</strong> Monkey (Male)</li><li><strong>Home:</strong> A small mountain in the Japanese countryside.</li><li><strong>Special Skill:</strong> Eating 10 bananas in one minute.</li><li><strong>Dream:</strong> To become a famous poet or comedian.</li></ul>`,
-            icon: 'IMG/monkichi-icon.jpg',
-            image: 'IMG/monkichi-profile.jpg'
+            icon: 'IMG/Monkichi-icon.jpg',
+            image: 'IMG/Monkichi-profile.jpg'
         },
         hangyodon: {
             fullName: "Hangyodon", infoTitle: "FULL PROFILE",
@@ -175,8 +175,8 @@ document.addEventListener('DOMContentLoaded', () => {
             main: `<p><strong>Hangyodon</strong> (ハンギョドン) is a quirky, highly unusual, and wonderfully comical fish-man character who was introduced in 1985. He is characterized as a lonely romantic and a bit of an outcast who dreams passionately of becoming a major hero, using his unique skills to help others. However, his ambitious plans often go comically wrong, leading to funny and relatable failures. Despite his setbacks, he never loses his sense of humor or his determination to succeed.</p>
                 <p>He has a very expressive, distinctive face, particularly his large, kind eyes and full lips, which make him a natural on stage. Hangyodon is a very talented comedian and performer and enjoys making others laugh, often using self-deprecating humor. He is an empathetic and highly sensitive character who deeply values his close friendships, especially with his best friend, a small octopus named Sayuri, who is his biggest supporter and confidante. Hangyodon lives in a house inspired by traditional Chinese architecture and loves eating cold noodles and shrimp crackers. He is a unique and endearing character in the Sanrio universe, representing the idea that it's okay to be a little bit different, and that true heroism often comes from being kind, funny, and true to yourself.</p>`,
             detailed: `<ul><li><strong>Name:</strong> Hangyodon (ハンギョドン)</li><li><strong>Birthday:</strong> March 14th, 1985 (Debut Year)</li><li><strong>Species:</strong> Fish-man (Male)</li><li><strong>Best Friend:</strong> Sayuri (an octopus)</li><li><strong>Dream:</strong> To be a hero and a comedian.</li><li><strong>Favorite Food:</strong> Cold noodles and shrimp crackers.</li></ul>`,
-            icon: 'IMG/hangyodon-icon.jpg',
-            image: 'IMG/hangyodon-profile.jpg'
+            icon: 'IMG/Hangyodon-icon.jpg',
+            image: 'IMG/Hangyodon-profile.jpg'
         }
     };
 
@@ -228,7 +228,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
         const logoHtml = `
             <div id="main-page-logo" style="display: flex; justify-content: center; margin-bottom: 20px;">
-                <img src="IMG/sanrio-wiki-logo.png" alt="Sanrio Wiki Logo" style="width: 150px; height: auto;">
+                <img src="IMG/Sanrio-Wiki-Logo.png" alt="Sanrio Wiki Logo" style="width: 150px; height: auto;">
             </div>
         `;
         infoTitle.insertAdjacentHTML('beforebegin', logoHtml);
@@ -306,7 +306,7 @@ document.addEventListener('DOMContentLoaded', () => {
         
         const interactiveImageHtml = `
         <div id="interactive-image-container">
-            <img src="IMG/sanrio-group-photo.jpg" alt="Sanrio Characters Group" id="group-character-image">
+            <img src="IMG/Sanrio-group-photo.jpg" alt="Sanrio Characters Group" id="group-character-image">
             <div id="character-hotspots-container">
             ${Object.keys(charactersData).map(charId => {
                 const char = charactersData[charId];
